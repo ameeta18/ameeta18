@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Germany-1f6feb?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Working%20Student%20%7C%20Internship-2ea44f?style=for-the-badge" alt="Open to Work"/>
+ 
 </p>
 
 ---
