@@ -44,10 +44,10 @@ End-to-end RAG system that automates academic research through agentic LLM orche
 
 - **87% reduction in LLM context usage** through chunking, embedding, and retrieval
 - **5× more papers per session** vs. naive context-stuffing
-- LangGraph ReAct agent orchestrating 5 custom LangChain tools (arXiv search, PDF reader, vector indexer, semantic search, LaTeX renderer)
+- LangGraph ReAct agent orchestrating 6 custom LangChain tools (arXiv search, Semantic Scholar searc, PDF reader, vector indexer, semantic search, LaTeX renderer)
 - Custom evaluation framework for retrieval accuracy, faithfulness, and chunk coverage
 
-`LangGraph` `LangChain` `FAISS` `Google Gemini` `Streamlit` `Python`
+`LangGraph` `LangChain` `FAISS` `Google Gemini` `Streamlit` `Python` `FastAPI`
 
 ---
 
@@ -84,7 +84,6 @@ End-to-end RAG system that automates academic research through agentic LLM orche
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ameeta18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameeta18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
